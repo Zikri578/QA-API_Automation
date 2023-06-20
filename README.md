@@ -20,3 +20,5 @@ Caranya :
 - Integration/Regression
 
 Cara Run : npx mocha {nama_file}
+
+Link Video : https://drive.google.com/file/d/1v-6_Xrg7aS5iybMQiLly2fQ8Zko65CQ7/view?usp=drive_link
